@@ -1,0 +1,137 @@
+History of Java
+	- Why Java?
+	- History
+	- java vs c/c++
+
+Java Features
+	- Object Orientation & OOPS [Class, Object, Encapsulation, Abstraction, Inheritance, Polymorphism]
+	- Platform Independence
+	- Architecture neutral, simple, secure, dynamic and distributed
+	- Portable, secure and Robust
+	- Multithreaded, High Performing
+
+Java Basic Overview
+	- Basic Class syntax / Hello World!
+	- Class, Object, methods/functions, statements, variables, packages, keywords, comments, data structures
+	- Naming conventions
+	- public static void main(String[] args){}
+	- java installation, IDE Setup
+	- running Java programs in IDE
+	- JVM, JRE and JDK
+	- javac, .java files, .class files, and just-in-time compiler
+	- running Java programs via the command line
+
+Java Data Types
+	- Primitive data types [inte, char, long..]
+	- Non-primitive data types [Object, Array, String, Enum]
+	- Data type conversions [typecasting/widening]
+	- Array in detail
+
+Java Operators
+	- Arithmetic operators [+, -, *, /, %, ++, --]
+	- Assignment operator [=]
+	- Comparison operators [==, !=. >, <, >=, <+]
+	- Logical operators [&& , || , !]
+	- Bitwise operators
+	- instanceOf operator
+
+Java String in detail 
+	- String initialization
+	- String operations 
+	- String Immutability
+	- Strig Pool
+	- StringBuilder() and StringBuffer()
+
+Java Control Statements
+	- Conditional statements
+		- if
+		- if-else
+		- switch-case]
+	- Loopin statements 
+		- while
+		- do-while
+		- for
+		- for-each
+	- Execution flow control keywords 
+		- continue
+		- break
+	- Ternary operator [A?B:C] 
+
+Access Restrictors & Modifiers, Scope
+	- default, public, private, protected
+	- static keyword
+	- final keyword
+	- Variable scope and method scope
+
+Object & Class
+	- Class attribute and methods
+	- method return type and arguments
+	- Constructors
+	- instance-initializer block
+	- this keyword
+	- super keyword
+	- Variable scope
+	- static block
+
+Encapsulation
+	- private variables
+	- public getters and setters
+
+Abstraction and Inheritance
+	- Abstract class
+	- Concept of Abstraction
+	- Interface
+	- Inheritance Types
+
+Aggregation and Polymorphism
+	- Aggeration and nested objects
+	- Method overloading
+	- Method overriding
+	- co-variant return types
+
+MultiThreading
+	- Thread
+	- Thread life cycle
+	- Creating, naming, starting, joining threads
+	- Thread class and Runnable Interface 
+	- ThreadPool, Thread Priority and Thread Scheduler
+	- Daemon Thread
+	- Main Thread
+	- Thread Groups
+	- Shutdown Hook
+
+Java Exception Handling
+	- try-catch
+	- throw & throws keywords
+	- Custom Exceptions
+	- Deadlock
+	- Synchronization
+
+More concepts
+	- Inner class
+	- Anonymous class
+	- Static class
+	- Singleton Classe
+	- Wrapper Classe
+	- Nested Class
+	- Functional Interfaces
+	- Enumerations
+	- Arrays class
+	- Date and Time
+	- Math class
+	- Creating Immutable Classes
+	- Java Streams
+	- lambda expression
+	- RegEx
+	- Jave I/O
+	- Garbage Collection/ Memory Management 
+
+-to be continued...
+
+
+
+
+
+
+
+
