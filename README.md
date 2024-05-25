@@ -1,2 +1,2 @@
 # JavaBegginners
-Lear Java
+Learn Java
