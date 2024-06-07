@@ -1,4 +1,12 @@
 Problem 1:
+Create a class named CharDataTypeExample with the main function.
+Create the main function and declare a char variable in it. Assign some value and print it.
+
+Problem 2:
+Create a class named BooleanDataTypeExample with a main function. 
+In the main function, declare two boolean variables, assign them values, and print them in the format: "Value of boolean variable <variableName> is = <actualVariableValue>".
+
+Problem 3:
 Create a class named IntDataTypeExample with a main function. 
 Declare two integer variables and assign them some values. 
 Print the addition of these two variables in the format: "Addition of <number1> and <number2> is = <addition_result>". 
@@ -7,24 +15,20 @@ Print the multiplication of these two variables in the format: "Multiplication o
 Print the division of these two variables in the format: "Division of <number1> by <number2> is = <division_result>". 
 Print the remainder of the division of these two variables in the format: "Remainder of the division of <number1> by <number2> is = <remainder_result>".
 
-Problem 2:
-Create a class named BooleanDataTypeExample with a main function. 
-In the main function, declare two boolean variables, assign them values, and print them in the format: "Value of boolean variable <variableName> is = <actualVariableValue>".
-
-Problem 3:
+Problem 4:
 Create a class named FloatDataTypeExample with a main function. 
 In the main function, declare two floating-point numbers and print the addition of them in the format: "Addition of float numbers <number1> and <number2> is = <additionResult>". 
-Similarly, print the subtraction, multiplication, and division of these two numbers.
-
-Problem 4:
-Create a class named DoubleDataTypeExample with a main function. In the main function, declare two floating-point numbers and print the addition of them in the format: "Addition of double data type numbers <number1> and <number2> is = <additionResult>". 
-Similarly, print the subtraction, multiplication, and division of these two numbers.
+In some way, print subtraction, multiplication, and division of these two numbers.
 
 Problem 5:
-Create a class named LongDataTypeExample with a main function. In the main function, declare two long numbers and print the addition of them in the format: "Addition of long data type numbers <number1> and <number2> is = <additionResult>". 
-Similarly, print the subtraction, multiplication, and division of these two numbers.
+Create a class named DoubleDataTypeExample with a main function. In the main function, declare two floating-point numbers and print the addition of them in the format: "Addition of double data type numbers <number1> and <number2> is = <additionResult>". 
+In some way, print subtraction, multiplication, and division of these two numbers.
 
 Problem 6:
-Create a class named StringDataTypeExample with a main function. In the main function, declare two string variables and assign them some values. 
+Create a class named LongDataTypeExample with a main function. In the main function, declare two long numbers and print the addition of them in the format: "Addition of long data type numbers <number1> and <number2> is = <additionResult>". 
+In some way, print subtraction, multiplication, and division of these two numbers.
+
+Problem 7:
+Create a class named StringDataTypeExample with a main function. In the main function, declare two string variables and assign some values to them. 
 Print those values in the format: "String variable <variableName> = <variableValue>".
 Print concatenation of the above two variables separated by ":".
