@@ -1,0 +1,25 @@
+Problem 1:
+Create a class named StringDataTypeExample with a main function. 
+In the main function, declare two string variables and assign them some values.
+Print these values using the format: "String variable <variableName> = <variableValue>". Then, print the concatenation of these two variables, separated by a colon (:).
+
+Problem 2:
+Create a class named IntArrayExample. 
+In the main function, define an array of integers with a size of 4. 
+Assign 4 integer values to this array, and print each value on a new line using the format: "array index=<index>, value stored=<actualValue>".
+
+Problem 3:
+Create a class named DoubleArrayExample.
+In the main function, define an array of doubles with a size of 3. 
+Assign 2 double values to this array, and print each value on a new line using the format: "array index=<index>, value stored=<actualValue>".
+
+Problem 4:
+Create a class named ByteArrayExample. 
+In the main function, define an array of integers with a size of 3. 
+Assign 1 byte value to this array, and print each value on a new line using the format: "array index=<index>, value stored=<actualValue>".
+
+Problem 5:
+Create a class named StringArrayExample. 
+In the main function, define an array of strings with a size of 3. 
+Assign the first string value to index 0 and the second string value to index 2. 
+Print the values of all elements in the array using the format: "array index=<index>, value stored=<actualValue>".
