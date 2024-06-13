@@ -4,6 +4,8 @@ public class Person {
 	// characteristics / states / fields
 	String name; // "Abdulhamid"
 	int age; // 32
+	int height;
+	int contactNumber;
 	
 	
 	// behaviors / method / function
