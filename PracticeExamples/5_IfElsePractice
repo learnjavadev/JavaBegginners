@@ -1,1 +1,82 @@
+Sure, here is the rephrased version of the problems:
+
+Problem 1:
+Write a program that takes two numbers as input from the console and prints the larger number.
+
+Problem 2:
+Write a program that takes two numbers as input from the console and prints the smaller number.
+
+Problem 3:
+Write a program that checks whether a number is negative, positive, or zero.
+
+Problem 4:
+Write a Java program that checks if a given integer is a multiple of 5.
+
+Problem 5:
+Take the names and ages of three people as input from the user, determine the oldest and youngest among them, and print the results.
+
+Problem 6:
+Write a program that checks whether a number is even or odd.
+
+Problem 7:
+Write a program that takes a number as input from the console and checks if it is fully divisible by 2.
+
+If it is, print "<number> is fully divisible by 2".
+Otherwise, print "<number> is NOT fully divisible by 2".
+Problem 8:
+Take the length and breadth of a rectangle as input from the user and check if it is a square.
+
+Problem 9:
+A school has the following grading system rules:
+
+Below 25: F
+25 to 45: E
+45 to 50: D
+50 to 60: C
+60 to 80: B
+Above 80: A
+Ask the user to enter marks and print the corresponding grade.
+
+Problem 10:
+Given:
+
+x = 2
+y = 5
+z = 0
+Find the values of the following expressions and print them:
+a. x == 2
+b. x != 5
+c. x != 5 && y >= 5
+d. z != 0 || x == 2
+e. !(y < 10)
+
+Problem 11:
+Write a program in Java to input 5 numbers from the keyboard and calculate their sum and average.
+
+Example:
+
+Input: 1 2 3 4 5
+Output:
+The sum of 5 numbers is: 15
+The average is: 3.0
+Problem 12:
+Write a Java program that accepts three numbers and checks if all numbers are equal or not.
+
+Problem 13:
+Write a Java program that reads a positive integer and counts the number of digits.
+
+Problem 14:
+Take a number as input and print the corresponding day of the week.
+
+Example:
+
+Input: 1
+Output: Monday
+Problem 15:
+Take a number as input and check the following conditions:
+
+If it is positive and a multiple of 3, print "number is positive and multiple of 5".
+If it is greater than 50, print "number is also greater than 50", otherwise print "number is smaller than 50".
+If it is negative, print "number is negative".
+If it is zero, print "number is zero".
 
