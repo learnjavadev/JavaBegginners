@@ -68,5 +68,13 @@ public class ArrayDataTypeExample {
 		
 		System.out.println(arrayOfBooks[0].bookName);
 		System.out.println(arrayOfBooks[1].bookName);
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
