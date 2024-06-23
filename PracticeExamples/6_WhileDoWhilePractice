@@ -1,0 +1,24 @@
+problem1:
+Take a 2-digit number as input from the user and print the incrementing numbers less than 100
+Example:
+Input: 95
+Output: 95 96 97 98 99 
+
+problem2:
+Take a 2-digit number as input from the user and print the decrementing numbers greater than 0
+Example:
+Input: 9
+Output: 9 8 7 6 5 4 3 2 1
+
+problem3:
+Print the Fibonacci sequence till 1000
+Example:
+Output: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+
+problem4:
+Find the factorial of a number
+Example:
+Input: 5
+output: 5! = 120
+Explanation: 5*4*3*2*1=120
