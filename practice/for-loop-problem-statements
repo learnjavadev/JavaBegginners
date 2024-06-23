@@ -1,22 +1,22 @@
 problem1:
-Write a simple java class with Name "MyFirstClass<MyName>.java"
+Write a simple Java class with the Name "MyFirstClass<MyName>.java"
  print "Hello World!" on the console
 
 problem2:
-Write a simple program, declare two int variables, assign random value to them and do addtion 
+Write a simple program, declare two int variables, assign a random value to them, and do addition 
  print added value
 
 problem3:
-Find factorial of a number
+Find the factorial of a number
 Example:
 Input: 5
 output: 5! = 120
-Explaination: 5*4*3*2*1=120
+Explanation: 5*4*3*2*1=120
 
 problem4:
 Write a Java program to display the multiplication table of a given integer.
 
-Test Data : 5 (take this input from user)
+Test Data: 5 (take this input from the user)
 Expected Output :
 
 5 X 0  = 0                                                                        
@@ -32,7 +32,7 @@ Expected Output :
 5 X 10 = 50
 
 problem5:
-Write a simle program to print below pattern [for loop practie]
+Write a simple program to print the below pattern [for loop practice]
 *
 * *
 * * *
@@ -40,7 +40,7 @@ Write a simle program to print below pattern [for loop practie]
 * * * * *
 
 problem6:
-Write a simle program to print below pattern [for loop practie]
+Write a simple program to print the below pattern [for loop practice]
         *
       * *
     * * *
@@ -48,7 +48,7 @@ Write a simle program to print below pattern [for loop practie]
 * * * * *
 
 problem7:
-Write a simle program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 * * * * *
 * * * *
 * * *
@@ -56,7 +56,7 @@ Write a simle program to print below pattern [for loop practice]
 *
 
 problem8:
-Write a simle program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 * * * * *
   * * * *
     * * *
@@ -64,7 +64,7 @@ Write a simle program to print below pattern [for loop practice]
         *
 
 problem9:
-Write a simle program to print below pattern [for loop practie]
+Write a simple program to print the below pattern [for loop practice]
 * * * * *
   * * * *
     * * *
@@ -76,7 +76,7 @@ Write a simle program to print below pattern [for loop practie]
 * * * * *  
 
 problem10:
-Write a simle program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 * * * * *
 * * * *
 * * *
@@ -88,7 +88,7 @@ Write a simle program to print below pattern [for loop practice]
 * * * * *
 
 problem11:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 *
 * *
 * * *
@@ -100,7 +100,7 @@ Write a simple program to print below pattern [for loop practice]
 *
 
 problem12:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
         *
       * *
     * * *
@@ -112,7 +112,7 @@ Write a simple program to print below pattern [for loop practice]
         *
 
 problem13:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
      *
     * *
    * * * 
@@ -121,7 +121,7 @@ Write a simple program to print below pattern [for loop practice]
 * * * * * * 
 
 problem14:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 * * * * * *
  * * * * *
   * * * *
@@ -130,7 +130,7 @@ Write a simple program to print below pattern [for loop practice]
      *
 
 problem15:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 *
   *
     *
@@ -139,7 +139,7 @@ Write a simple program to print below pattern [for loop practice]
           *
 
 problem16:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
           *
         *
       *
@@ -177,7 +177,7 @@ Write a simple program to print below pattern [for loop practice]
 *                   *
 
 problem19:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 
 * * * * * * * * * * *                  
   *               * 
@@ -192,7 +192,7 @@ Write a simple program to print below pattern [for loop practice]
 * * * * * * * * * * *
 
 problem20:
-Write a simple program to print below pattern [for loop practice]
+Write a simple program to print the below pattern [for loop practice]
 
 * * * * * * * * * * *                  
 * *               * *
